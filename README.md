@@ -21,7 +21,7 @@ Request body:
     "qty": 1,
     "price": 1000,
     "currency": "USD"
-}
+}```
 
 Response status:
 ```json
